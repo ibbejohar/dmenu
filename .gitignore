@@ -1,0 +1,14 @@
+dmenu
+dmenu.o
+drw.o
+util.o
+dmenu.1.orig
+config.h
+config.def.h.orig
+config.def.h.rej
+dmenu.c.orig
+dmenu.c.rej
+drw.c.orig
+drw.c.rej
+config.mk.orig
+config.mk.rej
